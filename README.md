@@ -1,3 +1,40 @@
+# Open Scripture
+
+## Purpose
+
+Be advised, this repo is in very early stages. As time allows, I will expand this content to include a wide variety of ancient documents, including (but not limited to) scriptures, holy texts, purported holy texts, historical accounts, etc. for the purpose of: 
+
+* creating period-specific document dictionaries
+* directly translating documents from original texts using cutting edge NLP tools
+* comparing original documents to known etymological patterns extracted from similar period documents
+* comparing document text with same or similar text in other documents
+* mapping document translation histories over time
+* publishing literary analyses 
+* generating interactive timelines for easy exploration of historical data relating to period-specific beliefs, wisdom, philosophies, spiritual practices, etc.
+* employing some of the world's best methods and technologies to accomplish this work accurately and openly as possible
+
+If you like these ideas and would like to support this work, please consider becoming a one-time donor, regular sponsor, or contributor.
+
+Aut cum scuto aut in scuto![^1][^2]
+
+...
+
+[^1]: Latin phrase: Either with shield or in shield!
+[^2]: Phrase origin: https://thelastdiadoch.tumblr.com/post/112368585988/the-famous-phrase-come-back-with-your-shield
+
+## State of this Work
+
+Being in early stages, this data is likely to grow and change significantly. The author(s) and/or developer(s) working on this project provide no guarantees regarding accuracy or reliability; however, the goal of this work is to analyze and produce documents that adhere to language standards and logical methodologies as rigorously as possible.
+
+---
+
+Since this content was forked from another interesting repository, the original README.md follows.
+
+...
+
+
+## Original README.md (to end of file):
+
 Bible Versions and Cross-Reference Databases: mysql, sqlite, xml, csv, json, txt, md.
 ===============
 
